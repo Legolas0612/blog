@@ -21,8 +21,6 @@ In einem Artikel über die Fussball-WM in Qatar stolperte ich über den Begriff 
 
 {{<box>}}
 
-## ﻿
-
 ### Ein Auszug aus dem Interview mit Jon Wehrlin
 
 *Könnten Sie mir erklären, wo das Höhentraining seinen Ursprung hat?*
@@ -37,13 +35,7 @@ In diesem Diagramm siehst du die verschiedenen Disziplinen mit den dazugehörige
 
 Ja, denn in der Höhe muss man jedoch viel mehr atmen, um an die gleiche Menge Sauerstoff zu kommen. Daher die schlechteren Leistungen in Ausdauersportarten. **Auf 3000 Meter über Meer muss man sogar ein Drittel mehr Luft einatmen, um an dieselbe Menge Sauerstoff wie auf Meereshöhe zu kommen.** Für die Ausdauerleistungsfähigkeit ist der Sauerstoffdruck der Einatmungsluft entscheidend.
 
-
-
 ![Zeigt den O2-Druck (Grafik der EHSM)](repo_bild3.png)
-
-Alt Text
-
-Title
 
 Wie du der Grafik entnehmen kannst, ist die Quecksilbersäule auf Meereshöhe etwa 149mm hoch, auf 3000m sind es nur noch zwei Drittel, also 100mm. Auf 3000m hat man einfach weniger Sauerstoff zur Verfügung.
 
@@ -101,14 +93,8 @@ Wie wir bereits wissen, kann man in der Höhe nicht die absolute Bestleistung ab
 
 Jon Wehrlin hat alle meine Fragen geklärt, aber ich habe noch nichts von der Einrichtung, die von der EHSM verwendet wird, gesehen. Es hat ein grosses Laufband, worauf sogar Radfahrer und Langläufer trainieren können. Es gibt jedoch nicht nur dieses Laufband, sondern auch noch viele andere Geräte (siehe unten). Obwohl ich das Training der Mountainbiker knapp verpasst habe, ist es trotzdem ein zwar recht kurzer, aber sehr interessanter Einblick gewesen. Wir verabschieden uns, und ich werfe noch einen letzten Blick auf die Sporthalle, bevor ich in den Bus einsteige und mich wieder auf meinen langen Heimweg mache.
 
-
-
 ![Laufband für Radfahrer*innen und Langläufer*innen (Bild: Gian Federer)](img_3804.jpg)
 
-
-
 ![Laufband mit Höhensimulationsgeräten (Bild: Gian Federer)](img_3801.jpg)
-
-
 
 ![Fahrrad mit speziellen Höhensimulationsgeräten ](img_3802.jpg)
