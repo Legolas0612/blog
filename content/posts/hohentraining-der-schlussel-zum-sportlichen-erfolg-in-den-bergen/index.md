@@ -1,8 +1,9 @@
 +++
 title = "Höhentraining - Der Schlüssel zum sportlichen Erfolg, in den Bergen?"
 date = "2023-06-28"
-draft = true
+draft = false
 pinned = false
+image = "img_3808_resized.jpg"
 +++
 # Höhentraining - Der Schlüssel zum sportlichen Erfolg, in den Bergen?
 
@@ -16,17 +17,7 @@ In der Welt des Höhentrainings, dort wo sich die Athleten an ihre Grenzen bring
 
 In einem Artikel über die Fussball-WM in Qatar stolperte ich über den Begriff Höhentraining. Ich habe nicht gewusst, was Höhentraining ist. Deshalb habe ich beschlossen, die Zeitung beiseitezulegen und meine Zeit mit der Recherche über Höhentraining zu verbringen. So hat das alles begonnen, und jetzt sitze ich hier, im Zug nach Biel, um mich mit Jon Wehrlin von der Eidgenössischen Hochschule für Sport zu treffen. Ich freue mich, denn ich werde heute sicher viel über Höhentraining erfahren. Nach einer 21 Minuten langen Zugfahrt komme ich in Biel am Hauptbahnhof an. Schon als ich den Zug mit all meinen Sachen verlasse, kann ich das Ziel meiner Reise, das hoch über Biel liegt, bereits sehen. Ich schaue nach, wann die Magglingen-Bahn fährt, und werde überrascht. Denn ich habe nicht beachtet, dass die Bahn aufgrund von Wartungsarbeiten gar nicht fährt. Ich gehe zur Touristeninformation und frage, ob es einen alternativen Weg gibt. Zu meinem Glück fährt parallel zur Magglingen-Bahn die Leubringen-Bahn. Ich bedanke mich für die Auskunft und mache mich auf den Weg zum Bus, der mich zur Talstation bringt. Die Bahn fährt los, sobald ich eingestiegen bin. Während ich nach oben fahre und die Aussicht geniesse, fühle ich mich fast wie ein Profisportler, der sich auf dem Weg zum Training in der Höhe befindet. Die Bahn hält, und ich steige aus, glücklicherweise fährt der Bus schon in zwei Minuten. Ich setze mich hin und schaue aus dem Fenster, denn aus dem Bus hat man eine fabelhafte Aussicht. Nach einer kurzen Fahrt erreiche ich mein Ziel. Jon Wehrlin, der bereits an der Haltestelle wartet, begrüsst mich. Anschliessend führt er mich in sein Büro, wo ich meine Fragen stellen kann.
 
-﻿
-
-Image
-
-Image
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAC1JREFUWEft0EERAAAAAUH6lxbDZxU4s815PffjAAECBAgQIECAAAECBAgQIDAaPwAh6O5R/QAAAABJRU5ErkJggg==)
-
-Alt Text
-
-Title
+![Aussicht aus dem Bus (Bild: Gian Federer)](img_3808_resized.jpg)
 
 {{<box>}}
 
@@ -38,17 +29,7 @@ Title
 
 Das Höhentraining hat seinen Ursprung im Jahre 1968, als die Olympischen Spiele in Mexiko City stattfanden. Mexiko City liegt auf 2500 Metern über Meer. Damals wusste man noch nicht, wie sich die Höhe auf die Leistung der Sportler*innen auswirkt. Im Anschluss an die Olympischen Spiele hat man dann die erreichten Leistungen der Sportler in den verschiedenen Disziplinen mit den Bestleistungen der Olympischen Spiele anderer Jahre verglichen.
 
-﻿
-
-Image
-
-Image
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAC1JREFUWEft0EERAAAAAUH6lxbDZxU4s815PffjAAECBAgQIECAAAECBAgQIDAaPwAh6O5R/QAAAABJRU5ErkJggg==)
-
-Alt Text
-
-Title
+![Fuchs U, Reiss M. Höhentraining – Das Erfolgskonzept der Ausdauersportarten. Philipka, Münster 1990, Trainerbibliothek.](repo_bild1.png)
 
 In diesem Diagramm siehst du die verschiedenen Disziplinen mit den dazugehörigen Leistungen. Man kann erkennen, dass die Leistungen bei den Sprints besser waren als in den anderen Jahren, bei den Ausdauerdisziplinen erzielten die Athleten jedoch schlechtere Leistungen. Bei den 800-Meter-Läufen waren die Leistungen in der Höhe gleich wie bei Wettkämpfen in niedriger Höhe. Der Grund für die besseren Leistungen bei den Sprints ist, dass es in der Höhe einen tieferen Luftdruck und somit auch einen tieferen Luftwiderstand gibt. Ist der Luftdruck tiefer, sind die Sauerstoff- und Stickstoffmoleküle auf ein grösseres Volumen verteilt. Somit gibt es weniger Moleküle, welche einen Widerstand verursachen. Dies macht sich vor allem bei Sportarten wie Radfahren, Weitsprung und Sprints bemerkbar. Generell kann man sagen, dass der Effekt bei Sportarten, in denen man sich schnell bewegt, grösser ist.
 
@@ -56,13 +37,9 @@ In diesem Diagramm siehst du die verschiedenen Disziplinen mit den dazugehörige
 
 Ja, denn in der Höhe muss man jedoch viel mehr atmen, um an die gleiche Menge Sauerstoff zu kommen. Daher die schlechteren Leistungen in Ausdauersportarten. **Auf 3000 Meter über Meer muss man sogar ein Drittel mehr Luft einatmen, um an dieselbe Menge Sauerstoff wie auf Meereshöhe zu kommen.** Für die Ausdauerleistungsfähigkeit ist der Sauerstoffdruck der Einatmungsluft entscheidend.
 
-﻿
 
-Image
 
-Image
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAC1JREFUWEft0EERAAAAAUH6lxbDZxU4s815PffjAAECBAgQIECAAAECBAgQIDAaPwAh6O5R/QAAAABJRU5ErkJggg==)
+![Zeigt den O2-Druck (Grafik der EHSM)](repo_bild3.png)
 
 Alt Text
 
@@ -124,38 +101,14 @@ Wie wir bereits wissen, kann man in der Höhe nicht die absolute Bestleistung ab
 
 Jon Wehrlin hat alle meine Fragen geklärt, aber ich habe noch nichts von der Einrichtung, die von der EHSM verwendet wird, gesehen. Es hat ein grosses Laufband, worauf sogar Radfahrer und Langläufer trainieren können. Es gibt jedoch nicht nur dieses Laufband, sondern auch noch viele andere Geräte (siehe unten). Obwohl ich das Training der Mountainbiker knapp verpasst habe, ist es trotzdem ein zwar recht kurzer, aber sehr interessanter Einblick gewesen. Wir verabschieden uns, und ich werfe noch einen letzten Blick auf die Sporthalle, bevor ich in den Bus einsteige und mich wieder auf meinen langen Heimweg mache.
 
-﻿
 
-Image
 
-Image
+![Laufband für Radfahrer*innen und Langläufer*innen (Bild: Gian Federer)](img_3804.jpg)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAhCAYAAAC4JqlRAAAAAXNSR0IArs4c6QAAAC9JREFUWEft0EERAAAAAUH6lxbDZxU4s815PffjAAECBAgQIECAAAECBAgQIHAXGCthACKlGnUrAAAAAElFTkSuQmCC)
 
-Alt Text
 
-Title
+![Laufband mit Höhensimulationsgeräten (Bild: Gian Federer)](img_3801.jpg)
 
-﻿
 
-Image
 
-Image
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAC1JREFUWEft0EERAAAAAUH6lxbDZxU4s815PffjAAECBAgQIECAAAECBAgQIDAaPwAh6O5R/QAAAABJRU5ErkJggg==)
-
-Alt Text
-
-Title
-
-﻿
-
-Image
-
-Image
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAC1JREFUWEft0EERAAAAAUH6lxbDZxU4s815PffjAAECBAgQIECAAAECBAgQIDAaPwAh6O5R/QAAAABJRU5ErkJggg==)
-
-Alt Text
-
-<!--EndFragment-->
+![Fahrrad mit speziellen Höhensimulationsgeräten ](img_3802.jpg)
