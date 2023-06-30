@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = ""
+name = "Fabian Schmid"
+image = "/media/fcschupfen.webp"
 url = "/about/"
 +++
