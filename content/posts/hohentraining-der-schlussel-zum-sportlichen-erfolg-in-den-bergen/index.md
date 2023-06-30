@@ -5,9 +5,8 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "img_3808_resized.jpg"
+description = "In der Welt des Höhentrainings, dort wo sich die Athleten an ihre Grenzen bringen, um grandiose Leistungen zu erzielen, gibt es einiges zu beachten. Worauf muss man achten und wer kann profitieren? Dieser Frage habe ich mich in dieser Reportage angenommen."
 +++
-# Höhentraining - Der Schlüssel zum sportlichen Erfolg, in den Bergen?
-
 {{<lead>}}
 
 In der Welt des Höhentrainings, dort wo sich die Athleten an ihre Grenzen bringen, um grandiose Leistungen zu erzielen, gibt es einiges zu beachten. Worauf muss man achten und wer kann profitieren? Dieser Frage habe ich mich in dieser Reportage angenommen.
@@ -20,9 +19,7 @@ In einem Artikel über die Fussball-WM in Qatar stolperte ich über den Begriff 
 
 ![Aussicht aus dem Bus (Bild: Gian Federer)](img_3808_resized.jpg)
 
-{{<box>}}
-
-### Ein Auszug aus dem Interview mit Jon Wehrlin
+{{<box titel="Ein Auszug aus dem Interview mit Jon Wehrlin">}}
 
 *Könnten Sie mir erklären, wo das Höhentraining seinen Ursprung hat?*
 
@@ -46,9 +43,7 @@ Wir haben dazu einmal einen Versuch gemacht. Bei diesem Versuch sind die Athlete
 
 {{</box>}}
 
-{{<box>}}
-
-### Wer ist Jon Wehrlin?
+{{<box titel="Wer ist Jon Wehrlin?">}}
 
 Dr. Jon Wehrlin ist Leiter der Abteilung Ausdauerphysiologie an der Eidgenössischen Hochschule für Sport in Magglingen, Schweiz (EHSM). Herr Wehrlin hat nach dem Lehrerseminar an der Uni Bern Sportlehrer studiert und schliesslich an der Universität in Oslo den Doktortitel in Sportwissenschaften erworben. Herr Wehrlin ist schon seit vielen Jahren in der Höhentrainingsforschung tätig. Während seiner Karriere hat er schon zahlreiche Berichte über Höhentraining veröffentlicht. Herr Wehrlin’s Abteilung ist für die wissenschaftliche Betreuung verschiedener Schweizer Nationalsportler zuständig. *Dazu zählen Sportler*innen der Sportarten Langlauf, Biathlon, Mountainbike, Bahnradfahren, Triathlon und Leichtathletik.
 
