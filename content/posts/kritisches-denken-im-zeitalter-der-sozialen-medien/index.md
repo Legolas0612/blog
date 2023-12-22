@@ -1,8 +1,11 @@
 +++
 title = "Kritisches Denken im Zeitalter der Sozialen Medien. "
 date = "2023-12-18"
-draft = true
+draft = false
 pinned = false
+tags = ["#Deutsch", "#KritischesDenken"]
+image = "https://www.adsvisers.com/wp-content/uploads/2020/02/TikTok-Ads-1024x683.jpg"
+footnotes = "<!--StartFragment-->\n\nQuelle Bild: \n\n[TikTok-Ads-1024x683.jpg (1024×683) (adsvisers.com)](https://www.adsvisers.com/wp-content/uploads/2020/02/TikTok-Ads-1024x683.jpg)\n\n<!--EndFragment-->"
 +++
 <!--StartFragment-->
 
