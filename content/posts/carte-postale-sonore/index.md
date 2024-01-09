@@ -2,7 +2,7 @@
 title = "Carte postale sonore"
 date = "2023-04-26"
 draft = true
-pinned = false
+pinned = true
 description = ""
 +++
 C'était un projet que nous avons mené pendant les leçons de français. 
