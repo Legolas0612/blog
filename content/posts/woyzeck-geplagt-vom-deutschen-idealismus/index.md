@@ -1,0 +1,31 @@
++++
+title = "Woyzeck: Geplagt vom deutschen Idealismus"
+date = "2024-04-21"
+draft = false
+pinned = false
+tags = ["deutsch", "Literatur"]
+image = "https://bilder.buecher.de/produkte/37/37200/37200004z.jpg"
++++
+<!--StartFragment-->
+
+Im Rahmen unseres Deutschunterrichts haben wir uns mit dem Werk "Woyzeck" von Georg Büchner beschäftigt. Das Werk enthält viele interessante Themen, die wir gemeinsam in der Klasse oder in Kleingruppen behandelt haben. Eines dieser Themen ist die Unvollständigkeit des Dramas. Da Büchner starb, während er Woyzeck schrieb, wurde Woyzeck nicht als fertiges Werk gefunden. Das gefundene Werk bestand aus verschiedenen losen Kapiteln. Man hat versucht, die Kapitel sinnvoll zu gliedern. Verschiedene Personen hatten verschiedene Ideen, wie Büchner die Kapitel gliedern wollte, deshalb existiert Woyzeck in verschiedenen Fassungen mit unterschiedlicher Reihenfolge der Kapitel. Während des Unterrichts stellten wir fest, dass Herr Beutler und wir nicht die gleiche Version hatten. Das schränkte den Unterricht jedoch nicht ein, da die Aussagen des Werkes gleich bleiben, auch wenn die Reihenfolge der Kapitel unterschiedlich ist.
+
+Im Unterricht haben wir darüber gesprochen, dass Büchner die Figur des Woyzeck nach einer realen Person erschaffen hat. Dieses Vorbild für Woyzeck wurde öffentlich hingerichtet. Wir haben auch darüber gesprochen, dass es in Woyzeck um die Frage der Schuld geht. Woyzeck hat viele psychische Probleme, die ihn zu bösen Taten und schliesslich zum Mord an seiner eigenen Frau treiben. Das reale Vorbild für Woyzeck hatte ähnliche Probleme und beging ebenfalls ein Verbrechen. Wenn man diese Hintergrundgeschichte kennt, erkennt man, dass in Woyzeck die Schuld eines psychisch Kranken in Frage gestellt wird. Zudem wird der deutsche Idealismus immer wieder kritisiert. Ein gutes Beispiel dafür ist Woyzecks Gespräch mit dem Doktor. Woyzeck erklärt ihm, dass er an eine Wand uriniert hat und der Doktor kann nicht verstehen, warum Woyzeck sich nicht, wie es im deutschen Idealismus heisst, gegen seinen Drang wehren konnte.
+
+Büchner beschreibt Woyzeck als Opfer seiner Psyche. Der Vergleich der Geschichte des realen Woyzeck mit Büchners Schöpfung zeigt, dass eine wichtige Szene fehlt. Es fehlt die Verurteilung Woyzecks.
+
+Da Büchner das Werk nicht vollenden konnte, wissen wir nicht, wie diese Verurteilung aussehen sollte. Ich stelle mir vor, dass Büchner an dieser Stelle noch einmal eine starke Kritik sowohl am deutschen Idealismus als auch an der Verurteilung von psychisch Kranken üben wollte. Ich habe mir überlegt, wie Büchner eine solche Verurteilung wohl geschrieben hätte, und habe einen kleinen Entwurf gemacht.
+
+Woyzeck versucht nicht, seine Tat zu verbergen oder zu fliehen, weshalb er ziemlich schnell als Täter erkannt und gefasst wird. Während er im Gefängnis auf seine Verurteilung wartet, werden seine psychischen Probleme noch einmal verdeutlicht. Ich stelle mir vor, dass Woyzeck mit einem Verbrecher in einer Zelle sitzt, der eine ähnliche Tat begangen hat. Dieser Verbrecher hat die Tat jedoch aus reiner Bosheit begangen. Mit einer solchen extremen Gegenüberstellung würde Woyzecks Tat verharmlost, was Büchners Argumentation gegen eine öffentliche Hinrichtung unterstützen würde. Ausserdem wäre es möglich, dass Woyzeck im Gespräch mit dem anderen Verbrecher das Ausmass seiner Tat erkennt und seine psychischen Probleme überwindet. Woyzeck wäre dann wieder er selbst und nicht mehr von seinen psychischen Problemen beeinflusst. Verurteilt würde somit nicht der Woyzeck, der für die Tat verantwortlich ist, sondern der Woyzeck, der Bereut, was er unter dem Einfluss seiner psychischen Probleme getan hat. Bei der Verurteilung würden dann die verschiedenen Personen, die im Laufe des Buches eine Rolle spielen, ihre Meinungen zu Woyzeck äussern. Das wären unter anderem der Doktor und der Hauptmann. Diese würden, mit dem deutschen Idealismus als Argument, Woyzeck als schuldig beschreiben. Die ganze Verurteilung wäre sehr kurz und niemand würde sich für Woyzecks Erklärungen interessieren. Es wäre eine sehr ungerechte Verurteilung. Nach der Verurteilung würde er direkt hingerichtet werden.
+
+In diesem kurzen Abschnitt werden die beiden Hauptaussagen des Buches wiederholt und verstärkt. Die eine Aussage ist die Frage nach der Schuld eines Geisteskranken. Büchner kritisiert in Woyzeck die Bestrafung psychisch Kranker. Mit diesem neuen Woyzeck kann gezeigt werden, dass der Mord durch die Krankheit verursacht wurde und nicht durch Woyzeck. Ausserdem wird der deutsche Idealismus ein weiteres Mal verhöhnt, indem er zur Verurteilung einer «unschuldigen» Person verwendet wird.
+
+ 
+
+{{<box>}}
+
+Das Schreiben des Textes war für mich nicht allzu schwierig. Ich habe dazu auch keine Hilfsmittelverwendet abgesehen vom Buch und meinen Unterrichtsnotizen. Beim wiederholten überarbeiten des Textes habe ich mich zweier KI-tools bedient. Ich habe Chat-GPT benutzt, um den Text allgemein zu verbessern. Dies hat mir jedoch nicht viel gebracht, da die meisten Vorschläge der KI nicht dem Entsprachen, was ich mir von meinem Text wünschte. Chat-GPT zu nutzen war für mich mehr Aufwand als Ertrag und ich werde für künftige Aufsätze wahrscheinlich nicht mehr darauf zurückgreifen. Ich habe zudem noch DeeplWrite genutzt. Dies hat mich weit mehr überzeugt als Chat-GPT, da ich meinen Text viel selbstständiger überprüfen konnte. Das Programm zeigt einem sowohl Rechtschreibfehler, wie auch alternative Wörter und Satzstrukturen. Vor allem die Synonyme halfen mir sehr, da ich an einigen Stellen mich nicht klar auszudrücken wusste. Ich werde DeeplWrite wahrscheinliche auch für Zukünftige Aufsätze verwenden, sofern dies der Auftrag erlaubt, da ich dadurch viel Zeit spare und das Korrekturlesen vereinfacht wird.
+
+{{</box>}}
+
+<!--EndFragment-->
