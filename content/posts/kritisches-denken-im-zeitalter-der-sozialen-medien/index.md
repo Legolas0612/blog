@@ -4,8 +4,8 @@ date = "2023-12-18"
 draft = false
 pinned = false
 tags = ["Deutsch", "KritischesDenken"]
-image = "https://www.adsvisers.com/wp-content/uploads/2020/02/TikTok-Ads-1024x683.jpg"
-footnotes = "<!--StartFragment-->\n\nQuelle Bild: \n\n[TikTok-Ads-1024x683.jpg (1024×683) (adsvisers.com)](https://www.adsvisers.com/wp-content/uploads/2020/02/TikTok-Ads-1024x683.jpg)\n\n<!--EndFragment-->"
+image = "oip-1-.jpg"
+footnotes = "<!--StartFragment-->\n\nQuelle Bild: \n\n[Social Media: Types And Examples (newscraftgh.com)](https://www.newscraftgh.com/latest-updates/75-social-media-types-and-examples)\n\n<!--EndFragment-->"
 +++
 <!--StartFragment-->
 
