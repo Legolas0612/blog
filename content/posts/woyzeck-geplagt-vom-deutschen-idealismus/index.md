@@ -4,7 +4,7 @@ date = "2024-04-21"
 draft = false
 pinned = false
 tags = ["deutsch", "Literatur"]
-image = "https://bilder.buecher.de/produkte/37/37200/37200004z.jpg"
+image = "oip.jpg"
 +++
 <!--StartFragment-->
 
